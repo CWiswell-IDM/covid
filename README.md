@@ -1,6 +1,8 @@
 # covid
 Agent-based highly configurable infectious disease transmission model in Python
 
+Requirements: Ubuntu
+
 - Edit ~/.pip/pip.conf and add:
 ```
 [global]
