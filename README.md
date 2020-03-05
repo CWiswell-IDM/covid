@@ -1,4 +1,4 @@
-# covid
+# Covid-19
 Agent-based highly configurable infectious disease transmission model in Python
 
 Requirements: Ubuntu
