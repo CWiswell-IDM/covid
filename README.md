@@ -29,3 +29,7 @@ index-url = https://packages.idmod.org/api/pypi/pypi-production/simple
 - python -m dtk_app.dtk_setup
 - python transmission_demo.py
 ```
+
+## Configuration
+- To learn about how to configure the nd.json (population and vital dynamics): https://quickstart.idmod.org/#PopulationInitialization
+- To learn about how to configure the gi.json (disease): https://quickstart.idmod.org/#intrahost
